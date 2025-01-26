@@ -1,5 +1,3 @@
-<img src="https://github.com/user-attachments/assets/34c571e8-d9dd-4a8c-b65c-0918ab879d6f" alt="brevity.me Icon" width="150"/>
-
 # Welcome to brevityapp.me!
 
 We are building a modern, European-hosted microblogging platform designed as an alternative to traditional social media networks like Twitter and Threads. Our focus is on concise, meaningful interactions in a user-friendly environment, while maintaining user privacy and data sovereignty.
