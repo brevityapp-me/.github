@@ -1,4 +1,6 @@
-![brevity.me Icon](https://github.com/user-attachments/assets/ee6a6e30-c0d7-4b1d-881f-df21a1c49412)
+<img src="https://github.com/user-attachments/assets/34c571e8-d9dd-4a8c-b65c-0918ab879d6f" alt="brevity.me Icon" width="150"/>
+
+# Welcome to brevityapp.me!
 
 We are building a modern, European-hosted microblogging platform designed as an alternative to traditional social media networks like Twitter and Threads. Our focus is on concise, meaningful interactions in a user-friendly environment, while maintaining user privacy and data sovereignty.
 
@@ -11,7 +13,7 @@ We are building a modern, European-hosted microblogging platform designed as an 
 
 ## Contact
 
-For inquiries or feedback, please reach out to us at [hello@brevity.me](mailto:hello@brevity.me).
+For inquiries or feedback, please reach out to us at [hello@brevityapp.me](mailto:hello@brevityapp.me).
 
 ---
 
